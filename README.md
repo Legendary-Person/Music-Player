@@ -68,7 +68,7 @@ My GitHub profile: <a href="https://github.com/Legendary-Person/Legendary-Person
   <img width="330px" height="150px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/main%20menu.png"/>
   <img width="350px" height="120px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/menu.png"/>
   <img width="500px" height="200px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/menu%20player.png"/>
-  <img width="150px" height="200px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/file%20outlook.png"/>
+  <img width="100px" height="200px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/file%20outlook.png"/>
 </p>
 
 ```Click on the``` ```{```<a href="https://github.com/Legendary-Person/Music-Player/tree/main/Gallery">```📸```</a>```}``` ```to check out the gallery folder containing the above pictures.```
