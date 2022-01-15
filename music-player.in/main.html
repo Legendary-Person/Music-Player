@@ -1,22 +1,19 @@
+<!--
+Please read the README.md, there I have mentioned some links from where I took help while making the code.
+-->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>My Music Player</title>
+    <title>Black Balloon Music Player</title>
 
-    <!--Solve the two Script Src below-->
+    <!--Loads the icons-->
     <script src="https://kit.fontawesome.com/3cc2adce48.js" crossorigin="anonymous"></script>
-
-    <!-- Load FontAwesome icons -->
-    <link rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
-
 
     <!-- Load the custom CSS style file -->
     <link rel="stylesheet" type="text/css" href="style.css">
-    <script
-            src="https://code.jquery.com/jquery-3.6.0.js"
-            integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
-            crossorigin="anonymous" ></script>
+
+    <!--Using JavaScript to make the volume slider responsive.-->
     <script>
 		function volDecrease(){
 			const audio = document.getElementById("audio");
@@ -26,11 +23,10 @@
 			const audio = document.getElementById("audio");
 			audio.volume=audio.volume+1;
         }
-
     </script>
+
 </head>
 <body>
-<!--Loading Animation-->
 
 <!--The Canva Welcome Banner Link-->
 <div class="box">
@@ -40,6 +36,7 @@
 </div>
 </div>
 
+<!--Have used non-conventional techniques, try to avoid doing this in this format.-->
 <div class="box">
     <div class="welcome_banner" style="position: fixed;
     display: flex;
@@ -57,8 +54,9 @@
     </div>
 </div>
 
+<!--The Entire player component within a container.-->
 <div class="player">
-<div class="wrapper">
+
     <!-- Define the section for displaying details -->
     <div class="details">
         <div class="now-playing">PLAYING x OF y</div>
@@ -81,6 +79,8 @@
         </div>
     </div>
 
+    <!--Container for sliders-->
+    <div class="wrapper">
 
     <!-- Define the section for displaying the seek slider-->
     <div class="slider_container">
@@ -102,21 +102,13 @@
             </i>
         </label>
     </div>
-</div>
+
+    </div>
 </div>
 
-
-<!-- Download jquery -->
-<script>
-</script>
 <!-- Load the main script for the player -->
 <script src="main.js">
+</script>
 
-</script>
-<script>
-    $(".next-track").click(function(){
-		$(".box2").attr("src", "https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE0w3fgShI&#x2F;view?embed");
-    })
-</script>
 </body>
 </html>
