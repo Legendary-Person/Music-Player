@@ -37,9 +37,11 @@ I learned the language while simutaniously working on this small project of mine
 
 I wouldn't recommend you to do the same if you find it difficult to pick up a new language, rather get to know a decent bit of <a href="https://www.w3schools.com/Css/">```CSS```</a> before starting with this project.
 
-- My GitHub profile: <a href="https://github.com/Legendary-Person/Legendary-Person">```https://github.com/Legendary-Person/Legendary-Person```</a>
+- My GitHub profile: <a href="https://github.com/Legendary-Person/Legendary-Person">```Get to know me!```</a>
 
 - GeeksForGeeks: <a href="https://www.geeksforgeeks.org/create-a-music-player-using-javascript/">```How to make a Music Player?```</a>
+
+- My Project List: <a href="https://github.com/Legendary-Person/My-Little-Projects">Check out my project list!</a>
 
 Keep in mind that you can use <a href="https://www.hostinger.com/tutorials/what-is-wamp">```Wamp```</a> to host your project without much of an issue. 
 
