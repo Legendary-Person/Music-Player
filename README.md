@@ -29,11 +29,11 @@ My name is Itish Srivastava and this is my first small project, a rather simple 
 
 My project exclusively play songs by my favourite artist, <a href="https://en.wikipedia.org/wiki/NF_(rapper)">```NFRealMusic```</a>.
 
-I have provided the code for my project, and have also listed the ```Tech Stack``` involved in my project.
+I have provided the code for my project, and have also listed the <a href="https://blog.hubstaff.com/technology-stack/">```Tech Stack```</a> involved in my project.
 
 Keep in mind that you can use <a href="https://www.hostinger.com/tutorials/what-is-wamp">```Wamp```</a> to host your project without much of an issue. 
 
-Checkout ```📸 Gallery``` to see the project structure within your <a href="https://www.educba.com/what-is-ide/">```IDE```</a>.
+Checkout ```📸 Gallery``` later in the ```README.md``` to see the project structure within your <a href="https://www.educba.com/what-is-ide/">```IDE```</a>.
 
 As I have used <a href="https://www.w3schools.com/Css/">```CSS```</a> for the first time, I have utilized some very non-conventional means to make my player work.
 
