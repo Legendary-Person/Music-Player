@@ -58,7 +58,7 @@ align items in a vertical direction */
 .track-art {
     margin: 30px 30px 30px;
     height: 200px;
-    max-width: 200px;
+    width: 200px;
     background-size: cover;
     background-position: center;
     border-radius: 50%;
