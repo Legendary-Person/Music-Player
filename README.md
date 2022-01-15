@@ -27,13 +27,15 @@ Hello! 👋
 My name is <a href="https://github.com/Legendary-Person">```Itish Srivastava```</a> and this is my first small project, a rather simple music player made using </br>
 <a href="https://www.freecodecamp.org/news/what-is-front-end-development/">```Frontend-Development-Technologies```</a>. 
 
-My project exclusively play songs by my favourite artist, <a href="https://en.wikipedia.org/wiki/NF_(rapper)">```NFRealMusic```</a>.
+My project exclusively plays songs by my favourite artist, <a href="https://en.wikipedia.org/wiki/NF_(rapper)">```NFRealMusic```</a>.
 
 I have provided the code for my project, and have also listed the <a href="https://blog.hubstaff.com/technology-stack/">```Tech Stack```</a> involved in my project.
 
 Keep in mind that you can use <a href="https://www.hostinger.com/tutorials/what-is-wamp">```Wamp```</a> to host your project without much of an issue. 
 
 Checkout ```📸 Gallery``` later in the ```README.md``` to see the project structure within your <a href="https://www.educba.com/what-is-ide/">```IDE```</a>.
+
+Also make sure to read ```📣 Note```, as I have mentioned a handful of points regarding this project.
 
 As I have used <a href="https://www.w3schools.com/Css/">```CSS```</a> for the first time, while only having some very basic knowledge of the language, I had to utilize some very non-conventional means to make my player look the way it does.
 
