@@ -26,13 +26,13 @@ let track_list = [
 	{
 		name: "No Name",
 		artist: "NF",
-		image: "https://i.ytimg.com/vi/CJzaYLc4pPY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLdswmnnVue-tztNXikHzUDIm4oQ",
+		image: "https://th.bing.com/th/id/R.0e2dd238c7b28699d5504e4c9c32ec6d?rik=weYPh%2fab7MJhsA&riu=http%3a%2f%2fhiphop24x7.com%2fwp-content%2fuploads%2f2018%2f01%2fNew-Video-NF-NO-NAME.jpg&ehk=SpdKFgflbdVZUb%2fmft44W2C9RrtPaoKWlpSg0bXKW%2b4%3d&risl=&pid=ImgRaw&r=0",
 		path: "NF - CLOUDS (THE MIXTAPE)\\No Name NF.mp3"
 	},
 	{
 		name: "Clouds",
 		artist: "NF",
-		image: "https://th.bing.com/th/id/R.0e2dd238c7b28699d5504e4c9c32ec6d?rik=weYPh%2fab7MJhsA&riu=http%3a%2f%2fhiphop24x7.com%2fwp-content%2fuploads%2f2018%2f01%2fNew-Video-NF-NO-NAME.jpg&ehk=SpdKFgflbdVZUb%2fmft44W2C9RrtPaoKWlpSg0bXKW%2b4%3d&risl=&pid=ImgRaw&r=0",
+		image: "https://i.ytimg.com/vi/ZfJfvnvD7Kw/maxresdefault.jpg",
 		path: "NF - CLOUDS (THE MIXTAPE)\\11 CLOUDS (Edit).mp3"
 	},
 	{
