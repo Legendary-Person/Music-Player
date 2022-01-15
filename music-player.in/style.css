@@ -39,11 +39,11 @@ align items in a vertical direction */
     flex-direction: column;
     justify-content: center;
     text-align:center;
-    margin-left:114px
+
 }
 .wrapper{
     padding-left:0;
-    margin-left:-103px;
+    margin-left: -410px;
     z-index: 3;
 }
 .details {
@@ -58,7 +58,7 @@ align items in a vertical direction */
 .track-art {
     margin: 30px 30px 30px;
     height: 200px;
-    width: 200px;
+    max-width: 200px;
     background-size: cover;
     background-position: center;
     border-radius: 50%;
@@ -85,7 +85,7 @@ align items in a horizontal direction */
     display: flex;
     flex-direction: row;
     align-items: end;
-    margin-left: 23px;
+    margin-left: 5px;
 }
 
 .playpause-track,
@@ -113,7 +113,6 @@ align items in a horizontal direction */
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: -65px;
     position: absolute;
 }
 
@@ -153,8 +152,9 @@ align items in a horizontal direction */
 }
 
 .volume_slider {
-    width: 40%;
+    width: 50%;
     margin-top: 50px;
+    margin-left: 10px;
 }
 
 .current-time,
