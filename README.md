@@ -41,7 +41,7 @@ I wouldn't recommend you to do the same, get to know the basics of <a href="http
 
 My GitHub profile: <a href="https://github.com/Legendary-Person/Legendary-Person">```https://github.com/Legendary-Person/Legendary-Person```</a>
 
-GeeksForGeeks: <a href="https://www.geeksforgeeks.org/create-a-music-player-using-javascript/">```How to make a Music Player...```</a>
+GeeksForGeeks: <a href="https://www.geeksforgeeks.org/create-a-music-player-using-javascript/">```How to make a Music Player?```</a>
 
 ----
 <h2 align="left">
@@ -68,24 +68,7 @@ GeeksForGeeks: <a href="https://www.geeksforgeeks.org/create-a-music-player-usin
 - Canva (Embed Live Option)
 
 ```Click on the``` ```{```<a href="https://github.com/Legendary-Person/Music-Player/tree/main/music-player.in">```🏹```</a>```}``` ```in order to get redirected towards the main repository directory which contains the coding portion for the music player.```
-
-----
-<h2 align="left">
-    <b>
-        <a href="https://github.com/Legendary-Person/Music-Player/tree/main/Gallery">
-            📸</a> Gallery
-    </b>
-</h2>
-
-<p align="left">
-  <img width="330px" height="200px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/main%20menu.png"/>
-  <img width="350px" height="180px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/menu.png"/>
-  <img width="450px" height="250px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/menu%20player.png"/>
-  <img width="300px" height="250px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/file%20outlook.png"/>
-</p>
-
-```Click on the``` ```{```<a href="https://github.com/Legendary-Person/Music-Player/tree/main/Gallery">```📸```</a>```}``` ```to check out the gallery folder containing the above pictures.```
-                
+               
 ----            
 <!--Welcome Monologue-->
      
@@ -107,6 +90,23 @@ GeeksForGeeks: <a href="https://www.geeksforgeeks.org/create-a-music-player-usin
 </h2>
 
 - Under section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, teaching, education, scholarship and research. Fair use is a use permitted by the copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.   
+
+----
+<h2 align="left">
+    <b>
+        <a href="https://github.com/Legendary-Person/Music-Player/tree/main/Gallery">
+            📸</a> Gallery
+    </b>
+</h2>
+
+<p align="left">
+  <img width="330px" height="200px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/main%20menu.png"/>
+  <img width="350px" height="180px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/menu.png"/>
+  <img width="450px" height="250px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/menu%20player.png"/>
+  <img width="300px" height="250px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/file%20outlook.png"/>
+</p>
+
+```Click on the``` ```{```<a href="https://github.com/Legendary-Person/Music-Player/tree/main/Gallery">```📸```</a>```}``` ```to check out the gallery folder containing the above pictures.```
 
 ----
 ----
