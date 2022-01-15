@@ -65,9 +65,9 @@ My GitHub profile: <a href="https://github.com/Legendary-Person/Legendary-Person
 </h2>
 
 <p align="left">
-  <img width="330px" height="150px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/main%20menu.png"/>
-  <img width="350px" height="130px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/menu.png"/>
-  <img width="350px" height="250px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/menu%20player.png"/>
+  <img width="330px" height="200px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/main%20menu.png"/>
+  <img width="350px" height="180px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/menu.png"/>
+  <img width="400px" height="250px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/menu%20player.png"/>
   <img width="150px" height="250px" src="https://github.com/Legendary-Person/Music-Player/blob/main/Gallery/file%20outlook.png"/>
 </p>
 
