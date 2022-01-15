@@ -31,12 +31,6 @@ My project exclusively plays songs by my favourite artist, <a href="https://en.w
 
 I have provided the code for my project, and have also listed the <a href="https://blog.hubstaff.com/technology-stack/">```Tech Stack```</a> involved in my project.
 
-Keep in mind that you can use <a href="https://www.hostinger.com/tutorials/what-is-wamp">```Wamp```</a> to host your project without much of an issue. 
-
-Checkout ```📸 Gallery``` later in the ```README.md``` to see the project structure within your <a href="https://www.educba.com/what-is-ide/">```IDE```</a>.
-
-Also make sure to read ```📣 Note```, as I have mentioned a handful of points regarding this project.
-
 As I have used <a href="https://www.w3schools.com/Css/">```CSS```</a> for the first time, while only having some very basic knowledge of the language, I had to utilize some very non-conventional means to make my player look the way it does.
 
 I learned the language while simutaniously working on this small project of mine.
@@ -46,6 +40,12 @@ I wouldn't recommend you to do the same if you find it difficult to pick up a ne
 - My GitHub profile: <a href="https://github.com/Legendary-Person/Legendary-Person">```https://github.com/Legendary-Person/Legendary-Person```</a>
 
 - GeeksForGeeks: <a href="https://www.geeksforgeeks.org/create-a-music-player-using-javascript/">```How to make a Music Player?```</a>
+
+Keep in mind that you can use <a href="https://www.hostinger.com/tutorials/what-is-wamp">```Wamp```</a> to host your project without much of an issue. 
+
+Make sure to read ```📣 Note```, later in the ```README.md```, as I have mentioned a handful of points regarding this project.
+
+Checkout ```📸 Gallery```, later in the ```README.md```, to see the project structure within your <a href="https://www.educba.com/what-is-ide/">```IDE```</a>.
 
 ----
 <h2 align="left">
