@@ -50,12 +50,12 @@ Checkout ```📸 Gallery```, later in the ```README.md```, to see the project st
 ----
 <h2 align="left">
     <b>
-        <a href="https://legendary-person.github.io/Music-Player/music-player.in/HalcyonDaysTemplate/">
+        <a href="https://legendary-person.github.io/Music-Player/music-player.in/WelcomePage/">
             ⏯️</a> Preview
     </b>
 </h2>
 
-```Click on the``` ```{```<a href="https://legendary-person.github.io/Music-Player/music-player.in/HalcyonDaysTemplate/">```⏯️```</a>```}``` ```in order to try out the music player.```
+```Click on the``` ```{```<a href="https://legendary-person.github.io/Music-Player/music-player.in/WelcomePage/">```⏯️```</a>```}``` ```in order to try out the music player.```
 
 ----
 <h2 align="left">
