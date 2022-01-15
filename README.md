@@ -35,13 +35,15 @@ Keep in mind that you can use <a href="https://www.hostinger.com/tutorials/what-
 
 Checkout ```📸 Gallery``` later in the ```README.md``` to see the project structure within your <a href="https://www.educba.com/what-is-ide/">```IDE```</a>.
 
-As I have used <a href="https://www.w3schools.com/Css/">```CSS```</a> for the first time, I have utilized some very non-conventional means to make my player work.
+As I have used <a href="https://www.w3schools.com/Css/">```CSS```</a> for the first time, while only having some very basic knowledge of the language, I had to utilize some very non-conventional means to make my player look the way it does.
 
-I wouldn't recommend you to do the same, get to know the basics of <a href="https://www.w3schools.com/Css/">```CSS```</a> before starting with the project.
+I learned the language while simutaniously working on this small project of mine.
 
-My GitHub profile: <a href="https://github.com/Legendary-Person/Legendary-Person">```https://github.com/Legendary-Person/Legendary-Person```</a>
+I wouldn't recommend you to do the same if you find it difficult to pick up a new language, rather get to know a decent bit of <a href="https://www.w3schools.com/Css/">```CSS```</a> before starting with this project.
 
-GeeksForGeeks: <a href="https://www.geeksforgeeks.org/create-a-music-player-using-javascript/">```How to make a Music Player?```</a>
+- My GitHub profile: <a href="https://github.com/Legendary-Person/Legendary-Person">```https://github.com/Legendary-Person/Legendary-Person```</a>
+
+- GeeksForGeeks: <a href="https://www.geeksforgeeks.org/create-a-music-player-using-javascript/">```How to make a Music Player?```</a>
 
 ----
 <h2 align="left">
