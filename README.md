@@ -83,7 +83,7 @@ Checkout ```📸 Gallery```, later in the ```README.md```, to see the project st
 </h2>
 
 - The Music Player isn't API based, therefore you will need to either manually add the songs (a folder) in your project directory or use .mp3 links.
-- You will need to host your project on a server, like Wamp Server because, for security reasons, your browser wouldn't access your local files.
+- You will need to host your project on a server (when locally stored), like Wamp Server because, for security reasons, your browser wouldn't access your local files.
 - The webpage isn't responsive, meaning that it will not automatically resize itself according to the device you are using, in conclusion, looking at the final product on laptop/desktop will be different from looking at in on mobile phone.
 
 ----
