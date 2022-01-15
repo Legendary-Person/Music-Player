@@ -24,7 +24,7 @@
 
 Hello! 👋
 
-My name is Itish Srivastava and this is my first small project, a rather simple music player made using </br>
+My name is <a href="https://github.com/Legendary-Person">```Itish Srivastava```</a> and this is my first small project, a rather simple music player made using </br>
 <a href="https://www.freecodecamp.org/news/what-is-front-end-development/">```Frontend-Development-Technologies```</a>. 
 
 My project exclusively play songs by my favourite artist, <a href="https://en.wikipedia.org/wiki/NF_(rapper)">```NFRealMusic```</a>.
